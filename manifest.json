@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "TFS television",
+  "version": "1.0",
+  "description": "Chrome plugin to make backlog boards in TFS more TV friendly.",
+  "author": "Rolf Erik Lekang",
+  "content_scripts": [
+    {
+      "matches": ["http://*/tfs*"],
+      "js": ["board.js"],
+      "css": ["board.css"]
+    }
+  ]
+}
