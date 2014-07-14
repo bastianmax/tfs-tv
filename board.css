@@ -1,6 +1,7 @@
 .hidden,
 .header-section,
-.hub-title{
+.hub-title,
+.agile-board-toolbar{
   display: none;
 }
 
