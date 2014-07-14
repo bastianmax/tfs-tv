@@ -3,12 +3,12 @@
 .hub-title,
 .agile-board-toolbar,
 .hub-pivot{
-  display: none;
+  display: none !important;
 }
 
 .top,
 .right-hub-content,
 .content-section,
 .hub-pivot-content{
-  top: 0px;
+  top: 0px !important;
 }
