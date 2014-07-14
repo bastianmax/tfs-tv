@@ -1,7 +1,11 @@
-.hidden{
+.hidden,
+.header-section,
+.hub-title{
   display: none;
 }
 
-.top{
+.top,
+.right-hub-content,
+.content-section{
   top: 0;
 }
