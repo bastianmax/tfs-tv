@@ -1,12 +1,14 @@
 .hidden,
 .header-section,
 .hub-title,
-.agile-board-toolbar{
+.agile-board-toolbar,
+.hub-pivot{
   display: none;
 }
 
 .top,
 .right-hub-content,
-.content-section{
+.content-section,
+.hub-pivot-content{
   top: 0px;
 }
