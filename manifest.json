@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "TFS television",
-  "version": "1.0",
+  "version": "0.1",
   "description": "Chrome plugin to make TFS more TV friendly.",
   "author": "Rolf Erik Lekang",
   "content_scripts": [
