@@ -7,7 +7,6 @@
   "content_scripts": [
     {
       "matches": ["http://*/tfs*"],
-      "js": ["board.js"],
       "css": ["board.css"]
     }
   ]
