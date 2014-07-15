@@ -12,3 +12,13 @@
 .hub-pivot-content{
   top: 0px !important;
 }
+
+board-tile:before {
+  content: attr(data-item-id);
+  font-size: 50px;
+  font-family: sans-serif;
+  color: #dadada;
+  position: absolute;
+  left: 10px;
+  bottom: 0;
+}
