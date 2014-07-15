@@ -1,2 +1,1 @@
-for element in document.getElementsByClassName('')
-  element.getElementsByClassName('title').innerHTML = element.dataset['item-id']
+
